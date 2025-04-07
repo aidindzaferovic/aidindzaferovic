@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Aidin!
 
-As a motivated Computer Science student at St. John’s University, I’m passionate about building innovative software solutions that solve real-world problems. With hands-on experience in Java, SQL, and core data structures, I enjoy tackling complex challenges and turning ideas into impactful projects. I'm always looking to grow as a developer and bring value to every team I'm part of.
+As a motivated Computer Science student at St. John’s University, I’m passionate about building innovative software solutions that solve real-world problems. With hands-on experience in Java, SQL, and data structures, I enjoy tackling complex challenges and turning ideas into impactful projects. I'm always looking to grow as a developer and bring value to every team I'm part of.
 
 
 ---
