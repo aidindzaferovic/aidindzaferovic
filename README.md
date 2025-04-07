@@ -28,5 +28,5 @@ As a motivated Computer Science student at St. John’s University, I’m passio
 
 ## 📫 Connect With Me
 
-- 📧 Email: your.email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 📧 Email: Aidindz34@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/aidindzaferovic/)  
