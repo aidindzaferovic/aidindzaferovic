@@ -8,8 +8,6 @@ I'm a Computer Science student at St. John's University with a focus on **produc
  
 **Product**: Product Roadmapping · Agile/Scrum · User-Centered Design · Market Research · Leadership · Backlog Management
  
-**Technical**: Java · SQL · HTML · Git · Excel · MySQL
- 
 ---
  
 ## 💻 Tech Stack
