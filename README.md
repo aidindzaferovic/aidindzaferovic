@@ -6,22 +6,22 @@ I'm a Computer Science student at St. John's University with a focus on **produc
  
 ## 🧠 Product Toolkit
  
-**Product**: Product Roadmapping · Agile/Scrum · User-Centered Design · Market Research · Leadership · Backlog Management
+Product Roadmapping · Agile/Scrum · User-Centered Design · Market Research · Leadership · Backlog Management
  
 ---
  
 ## 💻 Tech Stack
  
-### Languages
+### 🧠 Languages 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
  
-### Databases
+### 🔧 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  
-### Tools
+### 🛠 Additional Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
