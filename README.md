@@ -4,12 +4,6 @@ I'm a Computer Science student at St. John's University with a focus on **produc
  
 ---
  
-## 🧠 Product Toolkit
- 
-Product Roadmapping · Agile/Scrum · User-Centered Design · Market Research · Leadership · Backlog Management
- 
----
- 
 ## 💻 Tech Stack
  
 ### 🧠 Languages 
